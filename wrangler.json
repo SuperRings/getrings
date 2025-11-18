@@ -2,7 +2,7 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "getrings",
+  "name": "helloworld",
   "compatibility_flags": ["nodejs_compat"],
   "upload_source_maps": true,
   "d1_databases": [
